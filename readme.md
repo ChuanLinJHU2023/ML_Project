@@ -10,7 +10,7 @@ This is the final project of EN.601.475/675 focusing on predicting liver cirrhos
 * `mlp.ipynb`: Neural network implementation
 * `pre_missing_data.ipynb`: Preprocessing notebook for handling missing data and generate dataset.
 * `train_em.csv`: Training dataset using EM algorithm to process missing data.
-* `train_mix.csv`: Training dataset using proportional and statistical imputation with noise for the data of 106 patients. The remaining missing data was processed by EM algorithm.
+* `train_mix.csv`: Training dataset using proportional and statistical imputation for the data of 106 patients. The remaining missing data was processed by EM algorithm.
 
 ## Getting Started
 To run this project:
