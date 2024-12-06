@@ -6,7 +6,7 @@ This is the final project of EN.601.475/675 focusing on predicting liver cirrhos
 * `EDA.ipynb`: Jupyter notebook containing exploratory data analysis
 * `ML_Final_Paper.pdf`: Project writeup
 * `ML_Final_Presentation.pdf`: Project presentation
-* `RF_KNN_SVM.ipynb`: Implementation of Random Forest model for cirrhosis prediction
+* `RF_KNN_SVM.ipynb`: Implementation of Random Forest, SVM, and KNN model for cirrhosis prediction
 * `mlp.ipynb`: Neural network implementation
 * `pre_missing_data.ipynb`: Preprocessing notebook for handling missing data and generate dataset.
 * `train_em.csv`: Training dataset using EM algorithm to process missing data.
